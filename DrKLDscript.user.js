@@ -6,8 +6,8 @@
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
 // @grant        unsafeWindow
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/ak2132003/DrKLDscript/main/DrKLDscript.user.js
+// @downloadURL  https://raw.githubusercontent.com/ak2132003/DrKLDscript/main/DrKLDscript.user.js
 // @run-at       document-end
 // ==/UserScript==
 
