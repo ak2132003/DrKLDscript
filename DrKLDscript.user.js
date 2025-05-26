@@ -5,6 +5,7 @@
 // @description  واجهة متطورة لفتح الكروت، محطة التفكيك، فتح الروابط وارسال روابط المهمات  👑
 // @author       Dr Ahmed Khaled 👑
 // @grant        unsafeWindow
+// @connect      raw.githubusercontent.com
 // @updateURL    https://raw.githubusercontent.com/ak2132003/DrKLDscript/main/DrKLDscript.user.js
 // @downloadURL  https://raw.githubusercontent.com/ak2132003/DrKLDscript/main/DrKLDscript.user.js
 // @match        *.centurygames.com/*
