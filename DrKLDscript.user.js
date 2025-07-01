@@ -10,6 +10,7 @@
 // @downloadURL  https://raw.githubusercontent.com/ak2132003/DrKLDscript/main/DrKLDscript.user.js
 // @match        *.centurygames.com/*
 // @grant        GM_xmlhttpRequest
+// @grant        GM_setClipboard
 // @run-at       document-end
 // ==/UserScript==
 
