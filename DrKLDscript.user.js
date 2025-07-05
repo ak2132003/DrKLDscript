@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Dr Ahmed Khaled 👑 | سكريبت ميجا
+// @name         Dr Ahmed Khaled 👑 | سكريبت د.أحمد خالد
 // @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
 // @version      2.2
 // @description  واجهات متطورة وسهولة استخدام  👑
