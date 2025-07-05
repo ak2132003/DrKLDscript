@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Dr Ahmed Khaled 👑 | سكريبت د.أحمد خالد
+// @name         Dr Ahmed Khaled 👑 | سكريبت ميجا
 // @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
 // @version      2.2
-// @description  واجهة متطورة لفتح الكروت، محطة التفكيك، فتح الروابط وارسال روابط المهمات  👑
+// @description  واجهات متطورة وسهولة استخدام  👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
