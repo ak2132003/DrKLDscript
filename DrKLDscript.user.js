@@ -6,7 +6,7 @@
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
-// @require      https://unpkg.com/@supabase/supabase-js
+// @require      https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.39.7/dist/umd/supabase.min.js
 // @grant        unsafeWindow
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
