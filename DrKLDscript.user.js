@@ -5,6 +5,7 @@
 // @description  واجهات متطورة وسهولة استخدام  👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *.centurygames.com/*
+// @match        *://*.apps.fbsbx.com/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
 // @require      https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.39.7/dist/umd/supabase.min.js
 // @grant        unsafeWindow
