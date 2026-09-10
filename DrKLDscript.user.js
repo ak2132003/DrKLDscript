@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Dr Ahmed Khaled 👑 | سكريبت د.أحمد خالد
 // @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
-// @version      2.2
+// @version      2.3
 // @description  واجهات متطورة وسهولة استخدام 👑
 // @author       Dr Ahmed Khaled 👑
 // @match        *://*.centurygames.com/*
